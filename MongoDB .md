@@ -1,6 +1,6 @@
 // todo 待做
 
-
+D:\fsc\aaa-study\并发高性能.md
 
 // 1.根据服务器内存和cpu的上限来设置队列
 
@@ -96,7 +96,7 @@ MongoDB for VS Code 使用
 
 3. 输入用户名和密码
 
-   ![image-20250815110021885](.\images\Snipaste_2025-08-15_11-04-19.png)
+   ![image-20250815110021885](images\Snipaste_2025-08-15_11-04-19.png)
 
 
 
