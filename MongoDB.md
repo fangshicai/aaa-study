@@ -96,7 +96,7 @@ MongoDB for VS Code 使用
 
 3. 输入用户名和密码
 
-   ![image-20250815110021885](images\Snipaste_2025-08-15_11-04-19.png)
+   ![image-20250815110021885](images/Snipaste_2025-08-15_11-04-19.png)
 
 
 
