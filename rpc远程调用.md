@@ -99,7 +99,7 @@ public class Main {
 
 # 3 HttpInvoker
 
-![image-20250818153240601](.\images\image-20250818153240601.png)
+![image-20250818153240601](\images\image-20250818153240601.png)
 
 - 只能用于java-to-java的场景
 - 要求客户端和服务端都使用SPRING框架。
